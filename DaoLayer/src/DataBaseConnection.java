@@ -9,7 +9,7 @@ public class DataBaseConnection
 	public static final String USERNAME="root";
 	public static final String PASSWORD="root";
 	static Connection conn=null;
-	
+	// hai
 	public static Connection getConnection()
 	{
 		try
